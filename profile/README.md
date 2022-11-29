@@ -23,9 +23,3 @@ Open Source Software PH (OSSPH) is a developer-led initiative to grow the commun
 [Twitter](https://twitter.com/OSSPhilippines)
 
 [Press Kit](https://bit.ly/3xjDvN2)
-
-<style>
-table {
-  width: 100%;
-}
-</style>
