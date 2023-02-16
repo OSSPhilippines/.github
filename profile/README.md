@@ -7,10 +7,14 @@
 <a href="https://discord.com/invite/4ujGbRJyDN" target="_blank">
   <img alt="Discord" src="https://img.shields.io/discord/905496362982981723?logo=Discord&logoColor=white&style=for-the-badge">
 </a>
-<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/ossphilippines?color=%23EC5BC6&label=github%20sponsors&style=for-the-badge">
+<a href="https://github.com/sponsors/OSSPhilippines" target="_blank">
+  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/ossphilippines?color=%23EC5BC6&label=github%20sponsors&style=for-the-badge">
+</a>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ossphilippines?label=Github%20followers&style=for-the-badge">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ossphilippines?color=FBD96A&label=github%20stars&style=for-the-badge">
-<img alt="Website" src="https://img.shields.io/website?label=ossph.org&style=for-the-badge&up_message=online&url=https%3A%2F%2Fossph.org">
+<a href="https://ossph.org" target="_blank">
+  <img alt="Website" src="https://img.shields.io/website?label=ossph.org&style=for-the-badge&up_message=online&url=https%3A%2F%2Fossph.org">
+</a>
 </p>
 
 <p style="text-align: justify">
@@ -26,7 +30,7 @@ Open Source Software PH (OSSPH) is a developer-led initiative to grow the commun
 
 [Join The Movement](https://discord.com/invite/4ujGbRJyDN)
 
-[Help Us Grow Through Sponsorship](https://www.patreon.com/ossph)
+[Help Us Grow Through Sponsorship](https://github.com/sponsors/OSSPhilippines)
 
 [GitHub](https://github.com/OSSPhilippines)
 
