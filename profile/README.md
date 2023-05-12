@@ -27,7 +27,7 @@ Open Source Software PH (OSSPH) is a developer-led initiative to grow the commun
 | Volunteers | 16 |
 | Discord Members | 1K |
 | Community Partners | 6 |
-| Facebook Followers | 5.1K+ |
+| Facebook Followers | 5.6K+ |
 
 [Join The Movement](https://discord.com/invite/4ujGbRJyDN)
 
